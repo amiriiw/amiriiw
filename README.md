@@ -19,7 +19,7 @@ My Github Page : <a href="https://amiriiw.github.io">amiriiw.github.io</a>
  <a href="https://github.com/amiriiw"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=f5f5f5"></a> 
  <a href="https://github.com/amiriiw"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=f5f5f5"></a> 
  <a href="https://github.com/amiriiw"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
- <a href="https://github.com/amiriiw"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=4479A1"></a>
+ <a href="https://github.com/amiriiw"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=f5f5f5"></a>
 </p>
 
 <h2 align="center">How to reach me</h2>
