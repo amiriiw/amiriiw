@@ -13,12 +13,7 @@ My Github Page : <a href="https://amiriiw.github.io">amiriiw.github.io</a>
 
 <h2 align="center">Skills</h2>
 <p align="center">
- <a href="https://github.com/amiriiw"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=000000"></a>
- <a href="https://github.com/amiriiw"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=000000"></a>
- <a href="https://github.com/amiriiw"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000"></a> 
- <a href="https://github.com/amiriiw"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=000000"></a> 
- <a href="https://github.com/amiriiw"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=000000"></a>
- <a href="https://github.com/amiriiw"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=000000"></a>
+ <a href="https://github.com/amiriiw"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=linux,bash,c,py,tensorflow,js,html,css,mysql,vim,github,postman"></a>
 </p>
 
 <h2 align="center">How to reach me</h2>
