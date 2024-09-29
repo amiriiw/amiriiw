@@ -1,14 +1,10 @@
 <p align="center">
- <img src="https://github.com/amiriiw/amiriiw/blob/main/images/backend-img.png" width="900" height="300"/> 
+ <img href="https://amiriiw.github.io/" src="https://github.com/amiriiw/amiriiw/blob/main/images/backend-img.png" width="900" height="300"/> 
 </p align="center">
 
 <p align="center">
  <img src="https://badges.pufler.dev/repos/amiriiw"/>
  <img src="https://badges.pufler.dev/commits/monthly/amiriiw" />
-</p>
-
-<p align="center">
-My Github Page : <a href="https://amiriiw.github.io">amiriiw.github.io</a>
 </p>
 
 <h2 align="center">Skills</h2>
