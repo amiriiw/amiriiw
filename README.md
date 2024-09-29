@@ -2,11 +2,6 @@
   <a href="https://amiriiw.github.io/"><img src="https://github.com/amiriiw/amiriiw/blob/main/images/backend-img.png" width="900" height="300"/></a>
 </p align="center">
 
-<p align="center">
- <img src="https://badges.pufler.dev/repos/amiriiw"/>
- <img src="https://badges.pufler.dev/commits/monthly/amiriiw" />
-</p>
-
 <h2 align="center">Skills</h2>
 <p align="center">
  <a href="https://github.com/amiriiw"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=linux,bash,c,py,tensorflow,js,html,css,mysql,vim,github,postman"></a>
