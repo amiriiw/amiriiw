@@ -1,11 +1,11 @@
-<p align="center">
-  <a href="https://amiriiw.github.io/"><img src="https://github.com/amiriiw/amiriiw/blob/main/images/backend-img.png" width="900" height="300"/></a>
-</p align="center">
+# Amir!
 
-<h2 align="center">Skills</h2>
-<p align="center">
- <a href="https://github.com/amiriiw"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=linux,bash,c,py,tensorflow,js,html,css,mysql,vim,github,postman"></a>
-</p>
+> Backend and AI developer.  💻
+> Open source lover.  🌐
+> Linux user.  🐧
+
+# Skills:  
+<a href="https://github.com/amiriiw"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=linux,bash,c,py,tensorflow,js,html,css,mysql,vim,github,postman"></a>
 
 <h2 align="center">How to reach me</h2>
 <p align="center">
