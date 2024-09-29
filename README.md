@@ -15,7 +15,6 @@ My Github Page : <a href="https://amiriiw.github.io">amiriiw.github.io</a>
 <p align="center">
  <a href="https://github.com/amiriiw"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=000000"></a>
  <a href="https://github.com/amiriiw"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=000000"></a>
- <a href="https://github.com/amiriiw"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=000000"></a>
  <a href="https://github.com/amiriiw"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000"></a> 
  <a href="https://github.com/amiriiw"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=000000"></a> 
  <a href="https://github.com/amiriiw"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=000000"></a>
