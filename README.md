@@ -6,7 +6,7 @@
 > Linux user 🐧
 
 ## Skills:  
-<a href="https://github.com/amiriiw"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=linux,bash,c,py,tensorflow,js,html,css,mysql,vim,github,postman"></a>
+<a href="https://github.com/amiriiw"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=linux,arch,bash,c,py,tensorflow,js,html,css,mysql,vim,github,postman"></a>
 
 ## How to reach me
  <a href="https://x.com/awmiriiw?t=K6dwKY9_UN7C_ecz_YDv1A&s=09"><img alt="X" src="https://img.shields.io/badge/x account-000000?style=for-the-badge&logo=x&logoColor=f5f5f5"></a>
