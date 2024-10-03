@@ -1,9 +1,8 @@
 # Amir!
 
 > ME: https://amiriiw.github.io 🥇  
-> Backend and AI developer 💻  
-> Open source lover 🌐  
-> Linux user 🐧
+> Backend and AI developer(🐧🧠).
+> Open source fan(🌐).
 
 ## Skills:  
 <a href="https://github.com/amiriiw"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=linux,arch,bash,c,py,tensorflow,js,html,css,mysql,vim,github,postman"></a>
