@@ -1,7 +1,7 @@
 # Amir!
 
 > ME: https://amiriiw.github.io 🥇  
-> Backend and AI developer(🐧🧠).
+> Backend and AI developer(🐧🧠).   
 > Open source fan(🌐).
 
 ## Skills:  
