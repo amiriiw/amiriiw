@@ -5,7 +5,7 @@
 > Open source fan(🌐).
 
 ## Skills:  
-<a href="https://github.com/amiriiw"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=linux,arch,bash,c,py,tensorflow,js,html,css,mysql,vim,github,postman"></a>
+<a href="https://github.com/amiriiw"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=linux,ubuntu,bash,c,py,tensorflow,js,html,css,mysql,vim,github,postman"></a>
 
 ## How to reach me
  <a href="https://x.com/awmiriiw&s=09"><img alt="X" src="https://img.shields.io/badge/x account-000000?style=for-the-badge&logo=x&logoColor=f5f5f5"></a>
