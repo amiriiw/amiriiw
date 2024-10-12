@@ -19,8 +19,6 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=amiriiw&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0"/>
 </div>
 
-
-https://discord.gg/DcmwAB6NmE
 <!---
 amiriiw/amiriiw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
