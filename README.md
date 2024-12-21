@@ -2,7 +2,6 @@
 
 > ME: https://amiriiw.github.io 🥇  
 > Backend and AI developer(🐧🧠).   
-> Open source fan(🌐).
 
 ## Skills:  
 <a href="https://github.com/amiriiw"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=linux,ubuntu,bash,c,py,tensorflow,js,html,css,postgres,vim,github,postman"></a>
