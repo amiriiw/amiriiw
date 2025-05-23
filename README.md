@@ -1,9 +1,7 @@
 # Amir
 
 > ME: https://amiriiw.github.io 🥇  
-> Just a developer.(🐧🧠).   
-
-## About me:
+> Just a developer. ☕️
 
 > My name is Amir, an open-source fan, Just a backend developer. I’m not a big fan of design, but I’m actually pretty good at it. I enjoy my work as long as my coffee isn’t finished. If you have any questions, feel free to contact me and ask.
 
