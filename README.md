@@ -1,25 +1,67 @@
-# I'm **Amir**
+# I'm AMIR 👋
 
-## About Me
+> My name is Amir, an open-source fan, just a developer. I’m not a big fan of design, but I’m actually pretty good at it. I enjoy my work as long as my tea isn’t finished. If you have any questions, feel free to contact me and ask.
 
-My name is Amir, an open-source fan, just a developer. I’m not a big fan of design, but I’m actually pretty good at it. I enjoy my work as long as my tea isn’t finished. If you have any questions, feel free to contact me and ask.
+## Know more about me 🧑‍💻
 
-## Skills
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,regex,flask,fastapi,nodejs,react,appwrite,npm,tensorflow,pytorch,opencv,postgres,mysql,sqlite,bash,linux,arch,ubuntu,mint,kali,vim,git,github,postman,nginx,cloudflare,figma,arduino,gtk,selenium,bots,discord,gmail,md,stackoverflow,twitter" />
 
-**I also have experience with:**
+class Information {
+public:
+    std::string name = "Amir 🧑‍💻";
+    std::string title = "Developer / Open-source Enthusiast 🚀";
+    std::string telegram = "@awmiriiw 💬";
+    std::string x = "https://x.com/awmiriiw 🐦";
+    std::string location = "Based in Iran 🇮🇷";
+};
 
-🔹 Machine Learning
-🔹 REST APIs
-🔹 React Native
+class Platforms {
+public:
+    std::vector<std::string> os = {"Linux 🐧", "Arch", "Ubuntu", "Mint", "Kali"};
+};
 
-🔐 Cryptography
-🕷️ Crawlers
-🧱 Develop Cores
-🧩 Micro-Services
+class Languages {
+public:
+    std::vector<std::string> languages = {
+        "C ⚙️", "CPP 🖥️", "Python 🐍", "JavaScript 📜", "HTML 📄", "CSS 🎨", "Regex 🔍", "Bash 🐚"
+    };
+};
 
-## 📬 How to reach me
+class Tools {
+public:
+    std::vector<std::string> tools = {
+        "Flask 🍶", "FastAPI 🚀", "NodeJS 🌳", "React ⚛️", "ReactNative 📱", "Appwrite ✍️",
+        "NPM 📦", "TensorFlow 🤖", "PyTorch 🔥", "OpenCV 👁️", "PostgreSQL 🐘", "MySQL 🐬",
+        "SQLite 🗄️", "Git 🔧", "GitHub 🐙", "Postman 📬", "Nginx 🌐", "Cloudflare ☁️",
+        "Figma 🎨", "Arduino 🤖", "GTK 🖥️", "Selenium 🕷️", "Discord 🎤", "Bots 🤖",
+        "Stackoverflow 💡", "Twitter 🐦", "MD 📃", "Gmail 📧", "Vim 🔤"
+    };
+};
 
-<a href="https://x.com/awmiriiw&s=09"><img alt="X" src="https://img.shields.io/badge/x account-000000?style=for-the-badge&logo=x&logoColor=f5f5f5"></a>
-<a href="https://t.me/awmiriiw"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=f5f5f5"></a>
+class Skills {
+public:
+    std::vector<std::string> skills = {
+        "MachineLearning 🤖", "REST_APIs 🔗", "Cryptography 🔒",
+        "Crawlers 🕷️", "CoreDevelopment 🧱", "Microservices ⚙️"
+    };
+};
+
+int main() {
+    Information amir;
+    Platforms platforms;
+    Languages languages;
+    Tools tools;
+    Skills skills;
+
+    return 0;
+}
+```
+
+## How to reach me 📬
+
+> [!IMPORTANT]
+> Please use the links in the bio to contact me. 🔔
