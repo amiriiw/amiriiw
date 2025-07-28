@@ -1,8 +1,8 @@
-# I'm AMIR 👋
+# 👋 I'm AMIR
 
 > My name is Amir, an open-source fan, just a developer. I’m not a big fan of design, but I’m actually pretty good at it. I enjoy my work as long as my tea isn’t finished. If you have any questions, feel free to contact me and ask.
 
-## Know more about me 🧑‍💻
+## 🧑‍💻 Know more
 
 ```cpp
 #include <iostream>
@@ -61,7 +61,7 @@ int main() {
 }
 ```
 
-## How to reach me 📬
+## 📬 How to reach me
 
 > [!IMPORTANT]
-> Please use the links in the bio to contact me. 🔔
+> 🔔 Please use the links in the bio to contact me. 
